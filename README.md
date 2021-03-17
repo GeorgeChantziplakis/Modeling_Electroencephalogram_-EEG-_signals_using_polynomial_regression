@@ -1,0 +1,2 @@
+# Modeling_Electroencephalogram_-EEG-_signals_using_polynomial_regression
+University Project
